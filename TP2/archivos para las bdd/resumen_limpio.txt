@@ -1,0 +1,89 @@
+Objetivo
+desarrollar tu provincia para obtener una combinación de
+riqueza y fama. Los tracks de fama y dinero son paralelos en direcciones
+opuestas, quien primero cruce sus marcadores tendrá alta probabilidad
+de ganar.
+
+Desarrollo
+el juego de divide en rondas, en cada una se irán alternando
+turnos en el sentido de las manecillas del reloj. En el turno, se coloca un
+trabajador, se paga el costo (dinero: se mueve el marcador del track de
+dinero hacia atrás; o dados: se devuelven a la reserva), si es requerido, y
+se realiza la acción asociada. Cuando se han colocado todos los
+trabajadores termina la ronda, se retiran del tablero y empieza una nueva
+ronda. Solo puede haber un trabajador por cada espacio.
+
+Acciones
+
+Construcción: Se coloca una loseta de provincia en el tablero personal, se
+gana fama y/o dinero. Cada loseta tiene un costo en dados que debe
+cubrirse con uno o más dados propios. Cada loseta que se coloque en la
+provincia debe conectarse mediante caminos a la residencia inicial. Si la
+loseta tiene mercado(s), se ganan las monedas que estén indicadas en
+ella, si la loseta tiene edificio(s) se ganan 2/3/4 puntos de fama,
+dependiendo cuánto se haya mejorado dicho edificio. Si se conecta con
+camino un símbolo o ficha de producción en el borde del tablero se gana
+un premio inmediatamente.
+Mercado: Se gana dinero de ciertos mercados en la provincia. Si el espacio
+tiene varios tipos de acción, se obtiene dinero de exactamente un
+mercado de cada tipo de bien. Si el espacio tiene un solo tipo de mercado,
+se da un dado y se obtienen recursos de tantos mercados de ese tipo como
+valor del dado.
+
+Acciones en el palacio
+: Se da un dado (si se pide) y se obtiene un beneficio.
+Terraza exterior (gratis): Se toman 2 monedas y se vuelven a lanzar los
+dados propios.
+Terraza (gratis): Se toma un dado del color correspondiente y se agrega a
+la reserva personal.
+Balcones (1 dado): Se da un dado de un color específico y se obtienen 2
+de un color diferente.
+Cámaras (1 dado de cualquier color con un valor específico):
+Great Mogul: Se da un 1, se obtienen 2 puntos de fama y el token de
+jugador inicial.
+Dancer: Se da un 2, se obtienen 2 dados cualquiera y una ficha de
+producción. Esta se coloca en el tablero personal. (Si se está jugando el
+juego introductorio se cobra inmediatamente).
+Yogi: Se da un 3, se ganan 2 karmas y un dado cualquiera.
+Raja Man Sigh: Se da un 4, se obtiene una mejora de edificio y 3 monedas.
+Master Builder: Se da un 5, se cubre cualquier loseta en la provincia con
+una que esté en la reserva, debe seguir conectada por caminos a la
+residencia. La nueva ficha debe ser más cara que la anterior, se paga la
+diferencia de puntos con dados.
+Portuguese: Se da un 6, se avanzan exactamente 6 espacios en el río y se
+obtiene el beneficio donde se termine el movimiento.
+
+Río
+Se da un dado con 1/2/3 y se avanzan hasta 1/2/3 espacios en el río.
+Los espacios ocupados por otros jugadores no se cuentan y se saltan. Se
+ganan las recompensas del espacio al que se haya llegado.
+
+Karma
+En cualquier momento del turno, se paga 1 karma para voltear un
+dado al lado opuesto. (Las caras opuestas suman 7).
+
+Obtener nuevos trabajadores
+Al avanzar en los tracks de fama, dinero y
+en el río se ganarán nuevos trabajadores.
+
+Premios en los tracks de fama y dinero
+Además de trabajadores, en estos
+tracks se pueden ganar más premios: mejoras de edificios, karma,
+movimientos de río, dados. Estos premios sólo se ganan la primera vez
+que el marcador los alcance.
+
+Fin de la ronda
+la ronda termina cuando ningún jugador tenga
+trabajadores sin asignar, y aquellos jugadores con menos trabajadores
+hayan obtenido una ficha de producción. Se retiran los trabajadores del
+tablero y se inicia una nueva ronda.
+
+Fin del juego
+Tan pronto como alguien logre que su marcador de fama y
+su marcador de dinero se crucen se activara el fin del juego. Se termina la
+“vuelta” de la ronda para que todos tengan el mismo número de turnos.
+Después, si hay más de dos jugadores que lograron hacer que sus
+marcadores se crucen, cada uno cuenta la diferencia de puntos de fama
+entre su marcador de fama y su marcador de dinero. Quien tenga la
+diferencia más grande habrá ganado la partida
+

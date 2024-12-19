@@ -1,0 +1,88 @@
+Aim
+Develop your province to obtain a combination of
+wealth and fame.Fame and money tracks are parallel in addresses
+opposite, who first crosses its markers will have high probability
+to win.
+
+Development
+The divide game in rounds, in each one they will alternate
+shifts in the direction of the clock hands.In the turn, a
+worker, the cost is paid (money: the track marker moves
+back back;or dice: they are returned to the reservation), if required, and
+The associated action is performed.When all the
+workers end the round, retire from the board and start a new
+round.There can only be one worker for each space.
+
+Actions
+
+Construction: a province tile is placed on the personal board,
+Win fame and/or money.Each tile has a dice cost that must
+cover with one or more its own.Every tile that is placed in the
+Province must be connected through roads to the initial residence.Yes
+tile has a market (s), they win the coins indicated in
+She, if the tile has a building (s) they win 2/3/4 fame points,
+depending on how much this building has been improved.If you connect with
+I walk a symbol or production form on the edge of the board is won
+A prize immediately.
+Market: Money is earned from certain markets in the province.If space
+It has several types of action, money is obtained exactly one
+market of each type of good.If the space has only one type of market,
+a dice is given and resources are obtained from such markets as
+Dice value.
+
+Actions in the Palace
+: A dice (if requested) is given and a benefit is obtained.
+External terrace (free): 2 coins are taken and the
+own dice.
+Terrace (free): a dice is taken from the corresponding color and adds to
+The personal reserve.
+Balcones (1 given): There is a specific color dice and 2 are obtained
+of a different color.
+Cameras (1 given of any color with a specific value):
+Great Mogul: There is a 1, 2 points of fame and the token of
+Initial player.
+Dancer: there is a 2, 2 dice and a card of
+production.This is placed on the personal board.(If the
+Introductory game is charged immediately).
+Yogi: There is a 3, 2 karmas are won and an any given dice.
+RAJA MAN SIGH: A 4 is given, an improvement of building and 3 coins is obtained.
+MASTER BUILDER: There is a 5, any tile is covered in the province with
+one that is in the reserve, must continue connected by roads to the
+residence.The new file must be more expensive than the previous one, the
+Difference of dice.
+Portuguese: There is a 6, 6 spaces are advanced in the river and
+Obtain the benefit where the movement is finished.
+
+River
+It is given with 1/2/3 and progress is made up to 1/2/3 spaces in the river.
+The spaces occupied by other players are not counted and skipped.HE
+They win the rewards of the space to which it has been reached.
+
+Karma
+At any time of the turn, 1 karma is paid to turn a
+given to the opposite side.(Opposite faces add 7).
+
+Obtain new workers
+By advancing in fame, money and
+New workers will win on the river.
+
+Awards in Fame and Money Tracks
+In addition to workers, in these
+Tracks can win more awards: buildings improvements, karma,
+River movements, given.These awards are only won the first time
+That the marker scopes them.
+
+End of the round
+The round ends when no player has
+unclean workers, and those players with fewer workers
+They have obtained a production sheet.The workers from the
+board and start a new round.
+
+End of the game
+As soon as someone manages to make their fame score and
+Your money marker cross will activate the end of the game.The
+"Return" of the round so that everyone has the same number of shifts.
+Then, if there are more than two players who managed to make their
+markers cross, each one counts the difference in fame points
+between his fame score and his money score.Who has the
+larger difference will have won the game
