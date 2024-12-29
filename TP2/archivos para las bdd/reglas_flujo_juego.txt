@@ -1,0 +1,166 @@
+Rajas of the Ganges
+Set-Up:
+ ° Place the game board in the middle of the table, according to the player count.
+  -- If playing with 3 players, use the 2 “space cover” markers to cover the 1st Quarry space and the 3rd Harbor space.
+  -- If playing the “standard game,” put the Yellow, Brown and Red yield tokens, and the 8 river tokens, in the box.
+   ---See below for details on the Navaratnas Version and the Ganga Module (2 variants to the game!)
+ ° Sort the “Province Tiles” by color, and then by the 3 different animal backs (snake, cow, tiger).
+  -- Place the 12 stacks face-down next to the board, then flip the top tile of each stack face-up.
+ ° Mix the 8 white “Yield” tokens face-down on the temple space (white building).
+ ° Each player takes:
+  -- 1 Province board (place the “standard” side up – the side without blank yield spots)
+  -- 1 Kali Statue board (with the 2 slots in the middle open for dice – able to hold 10 dice (that’s all it does, fyi))
+  -- 6 Workers (lay 1 worker sideways on the river bridge,
+  --n the 15 fame space, and on the 20 money space)
+  -- 5 Cubes (1 on level 1 of the Karma track, and 1 on the leftmost space of the 4 buildings, right side of board)
+  -- 1 Money marker (start space to be determined when first player is chosen – see below)
+  -- 1 Fame marker (put on “0” space of the Fame track)
+  -- 1 Boat (put on start space of the river)
+  -- 1 Money Track Bonus marker (put on space 12 of the money track, blue (river) side up)
+  -- 1 die of each color (Green, Blue, Yellow, Purple) – roll them, place each die onto an empty hand of Kali Statue.
+ ° The player with the lowest total on their 4 dice will be Start Player. They take the Elephant marker (start player marker.
+)
+  -- The 1st player’s money marker goes on space 3. 2nd/3rd/4th player put their money marker on space 4/5/6.
+Game Flow:
+ ° Rajas of the Ganges is played over a number of rounds until 1 player triggers the end of the game by having their Fame
+and Money marker intersect paths. At this point, remaining players in turn order will have 1 more turn before the end.
+ ° The winning player will be whoever was able to move their markers past each other the furthest (in case multiple
+players achieve this goal during the last turn.
+)
+ ° During a round, starting with the 1st player going clockwise, each player will place 1 worker into 1 of the many empty
+action spaces and carry out the given action before the next player’s turn. When all players are out of workers, the
+round ends.
+General Rules to get Started:
+ ° As stated above,
+  --n a players turn, they will place one of their workers onto an empty action space and take the action.
+ ° There are 4 different areas of the board (Quarry, Market, Harbor, Palace) where players can place workers (see below
+for detailed descriptions of each action area)
+ ° Some of the action spaces have a cost associated with them when you place your worker there.
+  -- If the space in the center of the action space is empty, it’s free!
+  -- If the space shows a coin value, pay it (move marker backwards.
+)
+  -- If the space shows a die, return the indicated die (color and pip value might matter.
+)
+   ---Pip-less die mean “any value,” and a Tan die mean “any color”
+ ° Anytime in the game you earn Fame or money, you move your marker immediately (earning any bonuses on the track as
+you go,) and when you earn dice (if any remain of that color,) roll the dice immediately and place on your Kali Statue.
+  -- Your Kali Statue holds 10 dice. If you were to take an 11th, you can refuse it or replace 1 on the Statue already.
+ ° Karma – Is a resource earned throughout the game that is tracked above the Palace on the upper left side of the board.
+  -- It allows a player (at anytime on their turn) to flip 1 die to the opposite side by sliding your cube down 1 space.
+  -- You can spend as many Karma points as you want on your turn. The max to hold at 1 time is 3 (see track.
+)
+ ° New Workers – As the game progresses, you will be moving your money, fame and boat markers along their respective
+paths. If you reach the space with 1 of your workers, you take it and immediately add it to your pool, ready to work!
+Once you receive your 5th worker, the 6th worker still on the board is removed to the box. Only 5 can be earned in total.
+ ° Scoring Track Bonuses – Along the Fame and Money track, you will earn rewards when you reach certain numbers.
+  -- Since you can only go forward on the Fame track, the rewards are simply printed on the board for when you
+reach them, you earn them. They are spaces 5, 24 and 31.
+  -- The Money track is different as there is a small token you will use. You see, since your money can go up and
+down, the designers made it easy to remember if you got the bonus yet or not. The first time you cross this
+bonus marker, take the reward, flip the token, and move it up to the next space that matches this bonus token.
+The spaces that will have bonuses are 12, 33, 44, and 55. Take a look! After the bonus at 55, remove the token.
+Quarry Action (Place Province Tiles on your Player Board)
+ ° In the middle of the board are actions spaces (in 2 rows) with cost values from 1-4 (remember to pay). Next to them is
+an icon of a tile being placed on a Province board. Well, activating 1 of these spaces will allow you to d  --just that!
+ ° After placing your worker, and paying the cost, look at 1 of the 12 face-up Province tiles next to the board. You can
+“buy” a face-up tile by returning any number of matching colored dice to the supply with a sum of at least the value
+shown in the upper left corner. You can overpay for tiles this way.
+ ° After paying for your tile with dice, take it and place it on your player board so that at least 1 road on the tile can be
+traced back to your Estate (the building in the upper middle). Yes, you can rotate your tile any direction you wish and
+you can cut off other roads, as long as 1 road on your newly placed tile can make its way back home!
+ ° After you place your tile legally, you will earn rewards based on what is showing on the tile itself.
+  -- If 1 of the 4 buildings is showing, immediately earn Fame points equal to that building’s currently Fame level.
+  -- If it shows 1 of the 3 Markets, earn money equal to the printed money shown.
+  -- Obviously, earn all rewards shown (you might have multiple buildings or multiple markets.
+)
+ ° Around the edge of your Province are special “Yield” rewards. After scoring the Province tile itself, if a road connects to
+this Yield reward back to your Estate, you immediately get the bonus! If a Yield reward is blocked off, you can’t earn it.
+ ° When you are done getting your rewards, flip the next tile over in the stack you chose from.
+Market Action Spaces (Earn money based on Markets in your Province)
+ ° Just under the Quarry spaces are the Market action spaces. The each top row action space deals with a specific type of
+good, while the bottom spaces deal with all 3 different types of goods.
+ ° If you place a worker on 1 of the top spaces, you will first give up a die with any numeric value on it (the higher the
+better possibilities,) and then do the following:
+  -- Each of these spaces is associated with 1 of the 3 goods found in the Markets of your Province (tea, silk, spices.
+)
+  -- If you place your working on the Tea space, you will select a number of different tea markets in your Province
+(that can be traced back to your Estate via roads) up to the value on the die you turned in. (example, turn in a 3
+die, you can count up to 3 different tea markets on your Province board. Turn in a 4, you can count 4… so on…)
+  -- Calculate the total money shown on these different Markets and earn that amount of money immediately.
+  -- The Silk and Spices space work exactly the same.
+ ° If you place a worker on a bottom space (no player may access both bottom spaces in the same round (3/4 p game,) see
+different color worker icons,) then you will look at your Province board and choose 3 different type markets (1 tea, 1 silk,
+1 spices) that trace back to your Estate via roads and earn the shown money value immediately! This space has no cost!
+River Action Spaces (Move your Boat on the River for Rewards)
+ ° Under the Market spaces is the Harbor, and this area controls the movement of your Boat on the river.
+ ° Whenever a player is to move their boat during the game, they always move it forward, they never count spaces other
+players are on, and they immediately take the reward when the boat has stopped moving.
+ ° The Harbor spaces all have a coin cost except the first space which is free!
+ ° When putting your worker here, discard any die with a 1, 2 or 3 value (see chart to the right in the Harbor).
+  -- If a 1 is discarded, the player moves their boat 1 unoccupied space up the river.
+  -- If a 2 is discarded, the player moves their boat 1-2 unoccupied spaces up the river, player’s choice.
+  -- If a 3 is discarded, the player moves their boat 1-3 unoccupied spaces up the river, player’s choice.
+ ° The last space of the River can hold several boats, but once you reach this space, you can’t take boat actions anymore.
+ ° See the Rulebook for the individual descriptions of each space.
+Palace Action Spaces (Ways to Manipulate your Dice pool)
+ ° The Palace takes up the bottom left part of the board. It includes 19 action spaces from the Chambers (people) all the
+way to the Balcony space (shows “shaking” dice).
+ ° These are what the spaces do in detail:
+  -- The 6 Chamber People
+   ---1 – Give up any value 1 die to get 2 fame points and take the 1st player marker for next round.
+   ---2 – Give up any value 2 die to get any 2 dice in return and 1 white yield token sitting on the white
+building. Gain the reward of the Yield token immediately and discard it. If the pile runs out, reshuffle it.
+   ---3 – Give up any value 3 die to get 2 Karma and 1 die of your choice.
+   ---4 – Give up any value 4 die to advance 1 of your buildings up 1 level and earn 3 money.
+   ---5 – Give up any value 5 die to choose any Province tile, place it on top of any Province tile already built
+with a lower die cost, and pay 1+ dice totaling the difference in value of the 2 tiles in the color of the
+new tile. The new tile will not earn “Yield rewards” but it will earn rewards for what is on the tile itself.
+Also, this new tile must obey the laws of tile placement. It must be traceable back to the Estate.
+   ---6 – Give up any value 6 die to move your boat on the river exactly 6 unoccupied spaces. If you are
+within the last 6 river spaces, you can’t use this action anymore. Must be able to move exactly 6 spaces.
+  -- The Terrace/Balcony Spaces
+   ---The single space on the very end lets you take 2 money and re-roll any number of your dice.
+   ---The spaces that are touching a colored die reward you with 1 die of that color.
+   ---The spaces that show a colored die in the action space require 1 die of this color as payment to receive 2
+dice of the other color as the reward.
+End of the Round:
+ ° After everyone has placed all their workers (a player might have a skipped turn if other players have more workers) the
+round will end.
+ ° If a player took the 1st player marker by going to the #1 space in the Chambers, then that player is 1st player for the next
+round. If no one went to that space, pass the Elephant clockwise.
+ ° Everyone now takes back all their workers placed this round and starts a new round!
+End Game:
+ ° During the round, when 1 player has their Fame marker reach and/
+  --r pass their money marker, the game is triggered.
+ ° At this time, each player going clockwise until the last player is reached will get 1 more turn to place 1 more worker (if
+the last player is the one to trigger the game then the game will end now.
+)
+ ° When the game ends, the player who moved their Fame and Money marker the furthest apart (ties broken by the player
+who did this first) will win the game!
+Navaratnas Version (Advanced Game):
+ ° Instead of only being able to get 2 new workers like in the standard game, you can claim all 3 workers on the board.
+ ° You will use the other side of the Kali Statue which allows you to only store 8 dice, instead of 10 in the standard game.
+ ° You will use the other side of your Province Board as well. You will notice some empty Yield spaces around the edge.
+  -- During Set-up, take the Brown Yield tiles, flip them face-down, and each player takes 1 randomly, looks at it, and
+covers up 1 of the 2 Brown Yield spaces on their Province board. It doesn’t matter which Brown space is
+covered. You won’t earn the reward now, but you will earn it in game when you connect to this Yield token.
+   ---See the descriptions of the new bonus Yield tokens in the rulebook.
+  -- You will now sort the 4 different colored Yield tokens by color and place them face-up on their matching
+buildings on the right side of the board. (Same area you put the white tokens face-down in the standard game.
+)
+ ° There are 2 ways to obtain new Yield tokens during the game:
+  -- When you select the #2 person in The Chambers.
+   ---This person allows you to get any face-up Yield token from 1 of the buildings. Select 1 and add it to your
+Province board, but it can only cover up a matching color. You won’t earn the reward yet, but you will
+earn it when you connect to this Yield token via a road going back to your Estate.
+  -- When you have fewer workers than others!
+   ---If you are “skipped over” during a round because other players still have more workers, then you get to
+take 1 Yield token of your choice and place it on your Province board covering a matching color space.
+Again, the reward will be earned when you connect to this token with a road leading back to the Estate.
+ ° You are not required to take Yield tokens when allowed, and you can’t place a Yield token on top of another Yield token.
+The Ganga Module (Customize the River Spaces)
+ ° During set-up, mix the 8 river tokens face down, then roll a die. Count out that many spaces and choose 1 of the token
+to flip over and place on this space (creating a new space for the game).
+ ° Repeat this process until you reach the end of the river. The final river space can’t be covered up.
+ ° All 8 river tokens might not be placed out. See the rulebook for a detailed description of the new tokens.
+ ° Obviously, you can turn the tiles face-up and customize the river spaces however you wish for a certain strategic game.
